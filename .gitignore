@@ -1,0 +1,8 @@
+# ignoring build
+/target
+
+# ignoring lock
+Cargo.lock
+
+#ignoring the TODO
+TODO.md
